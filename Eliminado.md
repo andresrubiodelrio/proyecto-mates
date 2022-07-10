@@ -1,0 +1,1 @@
+Esto es el contenido de un fichero que será eliminado desde git
